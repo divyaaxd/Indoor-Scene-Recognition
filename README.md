@@ -33,8 +33,13 @@ I have designed 6 models characterized by different configurations to study and 
 I have used the below models for my project:
 
 **1.Model 1:** Deep neural network
+
 **2.Model 2:** CNN Model with 2 convolutional layers
+
 **3.Model 3:** CNN Model with 3 convolution layers
+
 **4.Model 4:** CNN Model with 3 convolution layers with data augmentation
+
 **5.Model 5:** 2 Convolution layers with Batch normalization
+
 **6.Model 6:** 2 Convolution layers and 2 dense layers with data augmentation

@@ -28,11 +28,13 @@ To build a Convolutional neural network, we require configuring the layers of th
 
 ## Model
 
-I have designed 6 models characterized by different configurations to study and analyse the dataset. I will use data augmentation to generate additional training data from the available training samples, by augmenting the samples using a number of random transformations that provide realistic-looking images to expose the model to more aspects of the data and help it generalise better. 
+I have designed 6 models characterized by different configurations to study and analyse the dataset. I will use data augmentation to generate additional training data from the available training samples, by augmenting the samples using a number of random transformations that provide realistic-looking images to expose the model to more aspects of the data and help it generalise better.  
 
->> Model 1: Deep neural network
->> Model 2: CNN Model with 2 convolutional layers
->> Model 3: CNN Model with 3 convolution layers
->> Model 4: CNN Model with 3 convolution layers with data augmentation
->> Model 5: 2 Convolution layers with Batch normalization
->> Model 6: 2 Convolution layers and 2 dense layers with data augmentation
+I have used the below models for my project:
+
+**1.Model 1:** Deep neural network
+**2.Model 2:** CNN Model with 2 convolutional layers
+**3.Model 3:** CNN Model with 3 convolution layers
+**4.Model 4:** CNN Model with 3 convolution layers with data augmentation
+**5.Model 5:** 2 Convolution layers with Batch normalization
+**6.Model 6:** 2 Convolution layers and 2 dense layers with data augmentation
